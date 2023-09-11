@@ -1,7 +1,7 @@
 ---
 title: Trevor M. Nolan
 role: Postdoctoral Scholar
-avatar_filename: avatar_hu658d09783318aec3e3b4655964e64c1d_212534_250x250_fill_q90_lanczos_center.jpg
+avatar_filename: avatar.jpg
 bio: "My research aims to understand how cells switch from proliferation to
   differentiation and how root growth is coordinated by cell-cell communication.
   "
@@ -40,10 +40,3 @@ education:
       institution: Iowa State University
       year: 2013
 superuser: true
-status:
-  icon: ☕️
-last_name: Wu
-highlight_name: true
-first_name: Alice
-email: ""
----
