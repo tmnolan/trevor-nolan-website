@@ -1,5 +1,5 @@
 ---
-title: Trevor Nolan
+title: Trevor M. Nolan
 role: Postdoctoral Scholar
 avatar_filename: avatar_hu658d09783318aec3e3b4655964e64c1d_212534_250x250_fill_q90_lanczos_center.jpg
 bio: "My research aims to understand how cells switch from proliferation to
